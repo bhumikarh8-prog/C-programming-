@@ -13,3 +13,4 @@ int main() {
     printf("Average Distance = %.2f cm", average(distance, 4));
     return 0;
 }
+
