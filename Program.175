@@ -17,3 +17,4 @@ int main() {
     printf("Average of valid readings = %.2f", average(data, 5));
     return 0;
 }
+
