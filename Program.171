@@ -13,3 +13,4 @@ int main() {
     printf("Average Reading = %.2f", average(sensor, 5));
     return 0;
 }
+
