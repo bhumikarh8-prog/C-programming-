@@ -15,3 +15,4 @@ int main() {
     printf("Average = %.2f, Highest = %d", average(a, 5), max);
     return 0;
 }
+
